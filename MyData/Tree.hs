@@ -1,4 +1,9 @@
-module MyData.Tree where
+module MyData.Tree(
+	NumTree,
+	NumForest,
+	toNumTree,
+	mapForDT
+	) where
 
 import Data.Tree(Tree(Node), Forest)
 
