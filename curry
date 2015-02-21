@@ -1,0 +1,31 @@
+curry
+uncurry
+map
+filter
+foldr
+++
+concat
+and
+or
+zip
+zipWith
+unzip
+break
+span
+lines
+dropWhile
+on
+id
+const
+fix
+
+Data.List
+	lookup
+
+Data.Map
+	fromList
+	lookup
+	insert
+	size
+	map
+	fromListWith
